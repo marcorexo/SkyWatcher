@@ -5,10 +5,10 @@ A cross-platform motion detection and tracking system built with OpenFrameworks 
 ## Screenshots
 
 ### Main Interface
-![SkyWatcher Main Interface](screenshots/skywatcher1.jpg)
+![SkyWatcher Main Interface](skywatcher1.jpg)
 
 ### Information Screen
-![SkyWatcher Information Screen](screenshots/skywatcher2.jpg)
+![SkyWatcher Information Screen](skywatcher2.jpg)
 
 ## Overview
 
