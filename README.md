@@ -2,6 +2,14 @@
 
 A cross-platform motion detection and tracking system built with OpenFrameworks and OpenCV.
 
+## Screenshots
+
+### Main Interface
+![SkyWatcher Main Interface](screenshots/skywatcher1.jpg)
+
+### Information Screen
+![SkyWatcher Information Screen](screenshots/skywatcher2.jpg)
+
 ## Overview
 
 SkyWatcher is a hobby project designed to detect and track moving objects using a webcam. The application processes video frames in real-time, identifies motion, and provides visual feedback by drawing bounding boxes around detected objects.
